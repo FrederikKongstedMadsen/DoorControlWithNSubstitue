@@ -1,0 +1,15 @@
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\obj\Debug\net6.0\DoorControl.Classes.csproj.AssemblyReference.cache
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\obj\Debug\net6.0\DoorControl.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\obj\Debug\net6.0\DoorControl.Classes.AssemblyInfoInputs.cache
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\obj\Debug\net6.0\DoorControl.Classes.AssemblyInfo.cs
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\obj\Debug\net6.0\DoorControl.Classes.csproj.CoreCompileInputs.cache
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\bin\Debug\net6.0\DoorControl.Classes.deps.json
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\bin\Debug\net6.0\DoorControl.Classes.dll
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\bin\Debug\net6.0\DoorControl.Classes.pdb
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\obj\Debug\net6.0\DoorControl.Classes.dll
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\obj\Debug\net6.0\refint\DoorControl.Classes.dll
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\obj\Debug\net6.0\DoorControl.Classes.pdb
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\obj\Debug\net6.0\ref\DoorControl.Classes.dll
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Extension.JUnit.Xml.TestLogger.dll
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Extension.JUnit.Xml.TestAdapter.dll
+C:\Users\frede\source\repos\SWT\DoorControl\DoorControl.Classes\bin\Debug\net6.0\Spekt.TestLogger.dll

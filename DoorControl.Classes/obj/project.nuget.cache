@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cSvtLvk/OTbcZdOTtMW17M1Igc+Po2cIZmdOxvNOMNNydqpm7h+1ksrbV1aAjTViaxmhAOOVe0dieNiJRsY1XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frede\\source\\repos\\SWT\\DoorControlWithNSubstitue\\DoorControl.Classes\\DoorControl.Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frede\\.nuget\\packages\\junitxml.testlogger\\3.0.124\\junitxml.testlogger.3.0.124.nupkg.sha512"
+  ],
+  "logs": []
+}

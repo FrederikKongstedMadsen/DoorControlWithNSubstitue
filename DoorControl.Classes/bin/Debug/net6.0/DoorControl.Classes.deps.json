@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DoorControl.Classes/1.0.0": {
+        "dependencies": {
+          "JunitXml.TestLogger": "3.0.124"
+        },
+        "runtime": {
+          "DoorControl.Classes.dll": {}
+        }
+      },
+      "JunitXml.TestLogger/3.0.124": {}
+    }
+  },
+  "libraries": {
+    "DoorControl.Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JunitXml.TestLogger/3.0.124": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QTZhSNm/xjj24W1yterf6eABv6KO+Y9jBqpau5RzPehdXTXkZcGQaLf/i50nTl+qnSwpbKkrC+bSyvLRE1ZNAg==",
+      "path": "junitxml.testlogger/3.0.124",
+      "hashPath": "junitxml.testlogger.3.0.124.nupkg.sha512"
+    }
+  }
+}
